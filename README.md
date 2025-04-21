@@ -58,7 +58,4 @@ my hackerrank solution about sql
  [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)| |Medium| 
  [Interviews](https://www.hackerrank.com/challenges/interviews/problem)| |Hard| 
  [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)| |Hard| 
- [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)| |Easy| 
- [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)| |Easy| 
- [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)| |Medium| 
 
