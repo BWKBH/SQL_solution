@@ -26,7 +26,15 @@ my hackerrank solution about sql
 [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)| |Medium| 2025/02
 [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)| |Medium| 2025/02
 [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)| |Medium| 2025/02
-[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)| |Medium| 2025/02
+[Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)| |easy| 2025/02
 
-[The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)| |Medium | 2025/02
-[The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)| |Medium | 2025/02
+
+
+[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)| |easy| 2025/02
+[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)| |easy| 2025/02
+
+
+[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)| |easy| 2025/02
+[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)| |easy| 2025/02
+[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)| |easy| 2025/02
+[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)| |easy| 2025/02
