@@ -1,2 +1,2 @@
 # Hackerrank
-my hackerrank solution about sql and python algorithm
+my hackerrank solution about sql
