@@ -46,7 +46,7 @@ my hackerrank solution about sql
  [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)| |Medium| 
  [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)| |Medium| 
  [Population Census ](https://www.hackerrank.com/challenges/asian-population/problem)| |Easy| 
- [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)| |Easy| 
+ [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_African%20Cities.sql) |Easy| 
  [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)| |Easy| 
  [The Report](https://www.hackerrank.com/challenges/the-report/problem)| |Medium| 
  [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)| |Medium| 
