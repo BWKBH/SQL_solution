@@ -1,7 +1,7 @@
 # Hackerrank
 my hackerrank solution about sql
 
-| Problem | Solution | Difficulty | Submission Date | other|
+| Problem | Solution | Difficulty | Submission Date | note |
 |----------|----------|------------|-----------------|-----|
 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Revising%20the%20Select%20Query%20I.sql) | Easy | 2025-02 |
 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Revising%20the%20Select%20Query%20II.sql) | Easy | 2025-02 |
