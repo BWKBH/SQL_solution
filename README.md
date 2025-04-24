@@ -97,11 +97,11 @@ my letcode solution about sql - most use Postgresql
 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [solution]() | Medium | 2025-03 |
 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [solution]() | Easy | 2025-03 |
 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [solution]() | Easy | 2025-03 |
-| [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [solution]() | Easy | 2025-03 |
+| [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [solution]() | Easy |  |
 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [solution]() | Medium | 2025-03 |
 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [solution]() | Medium | 2025-03 |
 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [solution]() | Medium | 2025-03 |
-| [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [solution]() | Medium | 2025-03 |
+| [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [solution]() | Medium | |
 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [solution]() | Easy | 2025-03 |
 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [solution]() | Medium | |
 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [solution]() | Medium | 2025-03 |
