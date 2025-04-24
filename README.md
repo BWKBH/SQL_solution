@@ -103,17 +103,17 @@ my letcode solution about sql - most use Postgresql
 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [solution]() | Medium | 2025-03 |
 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [solution]() | Medium | 2025-03 |
 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [solution]() | Easy | 2025-03 |
-| [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [solution]() | Medium | 2025-03 |
+| [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [solution]() | Medium | |
 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [solution]() | Medium | 2025-03 |
-| [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [solution]() | Medium | 2025-03 |
+| [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [solution]() | Medium |  |
 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [solution]() | Medium | 2025-03 |
-| [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [solution]() | Medium | 2025-03 |
-| [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [solution]() | Hard | 2025-03 |
-| [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [solution]() | Easy | 2025-03 |
-| [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [solution]() | Easy | 2025-03 |
-| [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [solution]() | Easy | 2025-03 |
-| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [solution]() | Medium | 2025-03 |
-| [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [solution]() | Easy | 2025-03 |
-| [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [solution]() | Easy | 2025-03 |
-| [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [solution]() | Easy | 2025-03 |
+| [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [solution]() | Medium |  |
+| [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [solution]() | Hard |  |
+| [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [solution]() | Easy |  |
+| [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [solution]() | Easy |  |
+| [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [solution]() | Easy | |
+| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [solution]() | Medium |  |
+| [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [solution]() | Easy |  |
+| [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [solution]() | Easy |  |
+| [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [solution]() | Easy |  |
 
