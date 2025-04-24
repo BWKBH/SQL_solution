@@ -1,8 +1,8 @@
 # Hackerrank
 my hackerrank solution about sql
 
-| Problem | Solution | Difficulty | Submission Date |
-|----------|----------|------------|-----------------|
+| Problem | Solution | Difficulty | Submission Date | other|
+|----------|----------|------------|-----------------|-----|
 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Revising%20the%20Select%20Query%20I.sql) | Easy | 2025-02 |
 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Revising%20the%20Select%20Query%20II.sql) | Easy | 2025-02 |
 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Select%20All.sql) | Easy | 2025-02 |
@@ -57,4 +57,4 @@ my hackerrank solution about sql
 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Placements.sql) | Medium | 2025-02 |
 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Symmetric%20Pairs.sql) | Medium | 2025-02 |
 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Interviews.sql) | Hard | 2025-02 |
-| [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_15%20Days%20of%20Learning%20SQL.sql) | Hard | 2025-02 |
+| [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | not_solved | Hard |  |
