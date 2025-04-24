@@ -106,7 +106,7 @@ my letcode solution about sql - most use Postgresql
 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [solution]() | Medium | 2025-03 |
 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [solution]() | Medium | 2025-03 |
 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [solution]() | Medium | 2025-03 |
-| [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [solution]() | Error | 2025-03 |
+| [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [solution]() | Medium | 2025-03 |
 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [solution]() | Medium | 2025-03 |
 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [solution]() | Hard | 2025-03 |
 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [solution]() | Easy | 2025-03 |
