@@ -1,5 +1,5 @@
 # Hackerrank
-my hackerrank solution about sql
+my hackerrank solution about sql - most use Mysql
 
 | Problem | Solution | Difficulty | Submission Date | note |
 |----------|----------|------------|-----------------|-----|
@@ -58,3 +58,10 @@ my hackerrank solution about sql
 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Symmetric%20Pairs.sql) | Medium | 2025-02 |
 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/hacker_rank_sql/hackkerank_sql_Interviews.sql) | Hard | 2025-02 |
 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | not_solved | Hard |  |
+
+
+
+# LeetCode
+my letcode solution about sql - most use Postgresql
+
+| Problem | Solution | Difficulty | Submission Date | note |
