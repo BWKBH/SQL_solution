@@ -9,9 +9,15 @@ select
 
 from
     contests c
-    left join colleges c2 on c.contest_id = c2.contest_id
-    left join challenges c3 on c2.college_id = c3.college_id
-    left join (
+left join
+    colleges c2
+on
+    c.contest_id = c2.contest_id
+left join
+        challenges c3
+on
+    c2.college_id = c3.college_id
+left join (
         select
             challenge_id,
             coalesce(sum(total_views), 0) stv,
