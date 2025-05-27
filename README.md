@@ -106,7 +106,7 @@ my letcode solution about sql - most use Postgresql
 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | not solved| Medium | 2025-03 |
 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Movie%20Rating.sql) | Medium | 2025-03 |
 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | not solved | Medium | 2025-03 |
-| [Friend Requests II Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii:-who-has-the-most-friends/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends.sql) | Error | 2025-03 |
+| [Friend Requests II Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends.sql) | Medium | 2025-03 |
 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | not solved | Medium | 2025-03 |
 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | not solved | Hard | 2025-03 |
 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | not solved | Easy | 2025-03 |
