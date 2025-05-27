@@ -103,17 +103,17 @@ my letcode solution about sql - most use Postgresql
 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Last%20Person%20to%20Fit%20in%20the%20Bus.sql) | Medium | 2025-03 |
 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Count%20Salary%20Categories.sql) | Medium | 2025-03 |
 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Employees%20Whose%20Manager%20Left%20the%20Company.sql) | Easy | 2025-03 |
-| [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Exchange%20Seats.sql) | Medium | 2025-03 |
+| [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | not solved| Medium | 2025-03 |
 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Movie%20Rating.sql) | Medium | 2025-03 |
-| [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Restaurant%20Growth.sql) | Medium | 2025-03 |
+| [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | not solved | Medium | 2025-03 |
 | [Friend Requests II Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii:-who-has-the-most-friends/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends.sql) | Error | 2025-03 |
-| [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Investments%20in%202016.sql) | Medium | 2025-03 |
-| [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Department%20Top%20Three%20Salaries.sql) | Hard | 2025-03 |
-| [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Fix%20Names%20in%20a%20Table.sql) | Easy | 2025-03 |
-| [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Patients%20With%20a%20Condition.sql) | Easy | 2025-03 |
-| [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Delete%20Duplicate%20Emails.sql) | Easy | 2025-03 |
-| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Second%20Highest%20Salary.sql) | Medium | 2025-03 |
-| [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Group%20Sold%20Products%20By%20The%20Date.sql) | Easy | 2025-03 |
-| [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_List%20the%20Products%20Ordered%20in%20a%20Period.sql) | Easy | 2025-03 |
-| [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Find%20Users%20With%20Valid%20E-Mails.sql) | Easy | 2025-03 |
+| [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | not solved | Medium | 2025-03 |
+| [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | not solved | Hard | 2025-03 |
+| [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | not solved | Easy | 2025-03 |
+| [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | not solved| Easy | 2025-03 |
+| [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | not solved | Easy | 2025-03 |
+| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | not solved | Medium | 2025-03 |
+| [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | not solved | Easy | 2025-03 |
+| [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | not solved | Easy | 2025-03 |
+| [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | not solved | Easy | 2025-03 |
 
