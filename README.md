@@ -66,54 +66,54 @@ my letcode solution about sql - most use Postgresql
 
 | Problem | Solution | Difficulty | Submission Date | note |
 |----------|----------|------------|-----------------|-----|
-| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [solution]() | Easy | 2025-03 |
-| [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution]() | Easy | 2025-03 |
-| [Big Countries](https://leetcode.com/problems/big-countries/) | [solution]() | Easy | 2025-03 |
-| [Article Views I](https://leetcode.com/problems/article-views-i/) | [solution]() | Easy | 2025-03 |
-| [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [solution]() | Easy | 2025-03 |
-| [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [solution]() | Easy | 2025-03 |
-| [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [solution]() | Easy | 2025-03 |
-| [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [solution]() | Easy | 2025-03 |
-| [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [solution]() | Easy | 2025-03 |
-| [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [solution]() | Easy | 2025-03 |
-| [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [solution]() | Easy | 2025-03 |
-| [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | [solution]() | Easy | 2025-03 |
-| [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [solution]() | Medium | 2025-03 |
-| [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [solution]() | Medium | 2025-03 |
-| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [solution]() | Easy | 2025-03 |
-| [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [solution]() | Easy | 2025-03 |
-| [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [solution]() | Easy | 2025-03 |
-| [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [solution]() | Easy | 2025-03 |
-| [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [solution]() | Easy | 2025-03 |
-| [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [solution]() | Medium | 2025-03 |
-| [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [solution]() | Medium | 2025-03 |
-| [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [solution]() | Medium | 2025-03 |
-| [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [solution]() | Easy | 2025-03 |
-| [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [solution]() | Easy | 2025-03 |
-| [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | [solution]() | Medium | 2025-03 |
-| [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [solution]() | Easy | 2025-03 |
-| [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [solution]() | Easy | 2025-03 |
-| [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [solution]() | Easy | 2025-03 |
-| [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [solution]() | Medium | 2025-03 |
-| [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [solution]() | Easy | 2025-03 |
-| [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [solution]() | Easy | 2025-03 |
-| [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [solution]() | Easy |  |
-| [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [solution]() | Medium | 2025-03 |
-| [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [solution]() | Medium | 2025-03 |
-| [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [solution]() | Medium | 2025-03 |
-| [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [solution]() | Medium | |
-| [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [solution]() | Easy | 2025-03 |
-| [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [solution]() | Medium | |
-| [Movie Rating](https://leetcode.com/problems/movie-rating/) | [solution]() | Medium | 2025-03 |
-| [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [solution]() | Medium |  |
-| [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [solution]() | Medium | 2025-03 |
-| [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [solution]() | Medium |  |
-| [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [solution]() | Hard |  |
-| [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [solution]() | Easy |  |
-| [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [solution]() | Easy |  |
-| [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [solution]() | Easy | |
-| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [solution]() | Medium |  |
-| [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [solution]() | Easy |  |
-| [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [solution]() | Easy |  |
-| [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [solution]() | Easy |  |
+| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Recyclable%20and%20Low%20Fat%20Products.sql) | Easy | 2025-03 |
+| [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Find%20Customer%20Referee.sql) | Easy | 2025-03 |
+| [Big Countries](https://leetcode.com/problems/big-countries/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Big%20Countries.sql) | Easy | 2025-03 |
+| [Article Views I](https://leetcode.com/problems/article-views-i/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Article%20Views%20I.sql) | Easy | 2025-03 |
+| [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Invalid%20Tweets.sql) | Easy | 2025-03 |
+| [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql) | Easy | 2025-03 |
+| [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Product%20Sales%20Analysis%20I.sql) | Easy | 2025-03 |
+| [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql) | Easy | 2025-03 |
+| [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Rising%20Temperature.sql) | Easy | 2025-03 |
+| [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Average%20Time%20of%20Process%20per%20Machine.sql) | Easy | 2025-03 |
+| [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Employee%20Bonus.sql) | Easy | 2025-03 |
+| [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Students%20and%20Examinations.sql) | Easy | 2025-03 |
+| [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Managers%20with%20at%20Least%205%20Direct%20Reports.sql) | Medium | 2025-03 |
+| [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Confirmation%20Rate.sql) | Medium | 2025-03 |
+| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Not%20Boring%20Movies.sql) | Easy | 2025-03 |
+| [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Average%20Selling%20Price.sql) | Easy | 2025-03 |
+| [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Project%20Employees%20I.sql) | Easy | 2025-03 |
+| [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Percentage%20of%20Users%20Attended%20a%20Contest.sql) | Easy | 2025-03 |
+| [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Queries%20Quality%20and%20Percentage.sql) | Easy | 2025-03 |
+| [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Monthly%20Transactions%20I.sql) | Medium | 2025-03 |
+| [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Immediate%20Food%20Delivery%20II.sql) | Medium | 2025-03 |
+| [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Game%20Play%20Analysis%20IV.sql) | Medium | 2025-03 |
+| [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql) | Easy | 2025-03 |
+| [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_User%20Activity%20for%20the%20Past%2030%20Days%20I.sql) | Easy | 2025-03 |
+| [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Product%20Sales%20Analysis%20III.sql) | Medium | 2025-03 |
+| [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Classes%20More%20Than%205%20Students.sql) | Easy | 2025-03 |
+| [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Find%20Followers%20Count.sql) | Easy | 2025-03 |
+| [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Biggest%20Single%20Number.sql) | Easy | 2025-03 |
+| [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Customers%20Who%20Bought%20All%20Products.sql) | Medium | 2025-03 |
+| [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql) | Easy | 2025-03 |
+| [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Primary%20Department%20for%20Each%20Employee.sql) | Easy | 2025-03 |
+| [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Triangle%20Judgement.sql) | Easy | 2025-03 |
+| [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Consecutive%20Numbers.sql) | Medium | 2025-03 |
+| [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Product%20Price%20at%20a%20Given%20Date.sql) | Medium | 2025-03 |
+| [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Last%20Person%20to%20Fit%20in%20the%20Bus.sql) | Medium | 2025-03 |
+| [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Count%20Salary%20Categories.sql) | Medium | 2025-03 |
+| [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Employees%20Whose%20Manager%20Left%20the%20Company.sql) | Easy | 2025-03 |
+| [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Exchange%20Seats.sql) | Medium | 2025-03 |
+| [Movie Rating](https://leetcode.com/problems/movie-rating/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Movie%20Rating.sql) | Medium | 2025-03 |
+| [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Restaurant%20Growth.sql) | Medium | 2025-03 |
+| [Friend Requests II Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii:-who-has-the-most-friends/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends.sql) | Error | 2025-03 |
+| [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Investments%20in%202016.sql) | Medium | 2025-03 |
+| [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Department%20Top%20Three%20Salaries.sql) | Hard | 2025-03 |
+| [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Fix%20Names%20in%20a%20Table.sql) | Easy | 2025-03 |
+| [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Patients%20With%20a%20Condition.sql) | Easy | 2025-03 |
+| [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Delete%20Duplicate%20Emails.sql) | Easy | 2025-03 |
+| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Second%20Highest%20Salary.sql) | Medium | 2025-03 |
+| [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Group%20Sold%20Products%20By%20The%20Date.sql) | Easy | 2025-03 |
+| [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_List%20the%20Products%20Ordered%20in%20a%20Period.sql) | Easy | 2025-03 |
+| [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [solution](https://github.com/BWKBH/SQL_solution/blob/main/leetcode_sql/leetcode_sql_Find%20Users%20With%20Valid%20E-Mails.sql) | Easy | 2025-03 |
 
